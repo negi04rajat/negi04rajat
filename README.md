@@ -12,7 +12,7 @@
 
 - 🚀 I love challenges! I've participated in hackathons like hackCBS 5.0 and Vihan 6.0, where I collaborated with talented individuals to solve real-world problems through innovative solutions.
 
-- 📫 Interested in collaborating or have any questions? Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/negi04rajat/). Let's build something amazing together!
+- 📫 Interested in collaborating or have any questions? Feel free to connect with me on [LinkedIn](www.linkedin.com/in/rakesh-singh-061244225). Let's build something amazing together!
 
 
   
