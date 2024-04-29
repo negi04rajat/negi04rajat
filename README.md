@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I'm Gaurav Sharma, a Freelance Website Developer with 2 years of hands-on experience in crafting digital experiences. Passionate about coding and continuously learning new technologies to enhance my skills.
+- 🌱 I'm Rakesh Singh , a Freelance Website Developer with 2 years of hands-on experience in crafting digital experiences. Passionate about coding and continuously learning new technologies to enhance my skills.
 
 - 💻 I have contributed to Open Source projects during HacktoberFest, embracing collaboration and community-driven development.
 
