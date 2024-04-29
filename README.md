@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-        width="30px">, I'm Gaurav Sharma</h1>
+        width="30px">, I'm Rakesh Singh</h1>
 <h3 align="center">Freelance WordPress Developer || Learning Full Stack Development || C++ Coder</h3>
 
 ## 🙋‍♂️ About Me
